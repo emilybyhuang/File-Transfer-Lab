@@ -1,5 +1,3 @@
-#File transfer lab
-
 Server:
 1. in directory serv, make.
 2. execute by ./server <some port number > 1024 >
