@@ -1,6 +1,6 @@
 Server:
 1. in directory serv, make.
-2. execute by ./server <some port number > 1024 >
+2. execute by ./server <some port number bigger than 1024 >
   
 Client:
 1. in directory client, make.
